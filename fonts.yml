@@ -2,22 +2,22 @@
 font:
   # Normal (roman) font face
   normal:
-    family: "Fira Code"
+    family: "Source Code Pro for Powerline"
     style: Bold
 
   # Bold font face
   bold:
-    family: "Fira Code"
+    family: "Source Code Pro for Powerline"
     style: Bold
 
   # Italic font face
   italic:
-    family: "Fira Code"
-    #style: Italic
+    family: "Source Code Pro for Powerline"
+    style: Italic
 
   # Bold italic font face
   bold_italic:
-    family: "Fira Code"
+    family: "Source Code Pro for Powerline"
     style: Bold Italic
 
   # Point size
