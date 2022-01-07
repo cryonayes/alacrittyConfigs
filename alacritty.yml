@@ -23,7 +23,7 @@ window:
     x: 6
     y: 6
 
-  decorations: None
+#  decorations: None
 #  startup_mode: Fullscreen
   dynamic_title: true
 
